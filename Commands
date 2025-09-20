@@ -1,1 +1,31 @@
-yea
+**Prefix:** `.` (dot)
+
+**movement**
+* `v` / `V` — bot goes into void.
+* `s` / `S` — bot teleports near you.
+
+**combat**
+* `.s <name>` — stomp player.
+* `.k <name>` — kill player.
+* `.b <name>` — bring player.
+
+**autokill**
+* `.a`, `.aa <names>`, `.ar <name>`, `.ac`
+
+**sentry**
+* `.sentry [radius]`, `.unsentry`
+
+**sentry whitelist**
+* `.sw <names>`, `.sw rem <name>`, `.sw clr`
+
+**fake position**
+* `.fp`, `.unfp`
+
+**protect**
+* `.pc` — protects crew.
+* `.p <user[, user,...]>` — protects you or listed users.
+* `.unpc` — turns off `.pc`.
+* `.unp` — turns off and clears `.p`.
+
+**emotes**
+* `.float`, `.flash`, `.floss`, `.dw`, `.sponge`, `.aura`, `.nope`, `.stopanim`
